@@ -1,5 +1,5 @@
 {
-  "name": "detect-object-cycle",
+  "name": "detect-object-cycles",
   "version": "0.9.1",
   "description": "Library to detect cycles in JSON / JavaScript objects",
   "main": "dist/main.js",

@@ -1,5 +1,5 @@
 
-## detect-object-cycle
+## detect-object-cycles
 
 ####  What does it do?
 
