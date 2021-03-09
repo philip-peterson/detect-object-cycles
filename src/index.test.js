@@ -1,4 +1,3 @@
-// import { findCycles } from "./main";
 const { findCycles } = require('./main');
 
 describe("findCycles", () => {
@@ -15,7 +14,7 @@ describe("findCycles", () => {
             isnt: {
                 a: {
                     cycle: 'foo',
-                    dog: [2,2,1],
+                    dog: [2, 2, 1],
                 }
             }
         }
